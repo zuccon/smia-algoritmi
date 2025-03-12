@@ -1,0 +1,4 @@
+jupyter
+jupyter-git
+numpy
+matplotlib
