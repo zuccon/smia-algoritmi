@@ -17,3 +17,4 @@ Appunti ed esercizi del corso "Tecniche di Programmazione" del primo anno, secon
 # Libri
 
 kleinberg algorithm design
+Cormen Leiserson Rivest Stein Introduzione agli algoritmi e strutture dati
