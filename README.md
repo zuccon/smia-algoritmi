@@ -3,7 +3,6 @@
 Appunti ed esercizi del corso "Tecniche di Programmazione" del primo anno, secondo semestre, di Scienze Matematiche per l'Intelligenza Artificiale (SMIA).
 
 
-
 ## Quick Start - Guida Rapida
 
 - Installa python3
@@ -16,5 +15,6 @@ Appunti ed esercizi del corso "Tecniche di Programmazione" del primo anno, secon
 
 # Libri
 
-kleinberg algorithm design
-Cormen Leiserson Rivest Stein Introduzione agli algoritmi e strutture dati
+Algorithm Design - Kleinberg, Tardos
+
+Introduzione agli algoritmi e strutture dati - Cormen, Leiserson, Rivest, Stein 
